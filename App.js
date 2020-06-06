@@ -15,14 +15,9 @@ const App = () => {
         <Text>Nugraha</Text>
       </View>
       <View>
-        <Text>Nama
-
-          
-        </Text>
+        <Text>Nama</Text>
         <TextInput></TextInput>
         <Text>Kelas</Text>
-        <TextInput></TextInput>
-        <Text>Alamat</Text>
         <TextInput></TextInput>
       </View>
     </ScrollView>
